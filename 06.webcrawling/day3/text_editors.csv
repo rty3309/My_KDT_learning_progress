@@ -1,0 +1,67 @@
+,Name,Developer,Initial release,Version,Date,Program­ming language,Cost (US$),License
+0,Acme,Rob Pike,1993,Plan 9 and Inferno,,C,No cost,MIT GPL-2.0-only LPL-1.02
+1,Alphatk,Vince Darley,1999,8.3.3[1],2004-12-10,,$40,"Proprietary, with BSD components"
+2,Atom,GitHub,2014,1.63.1[2],2022-11-23,"HTML, CSS, JavaScript, C++",No cost,MIT
+3,BBEdit,Rich Siegel,1992,15.5.2[3],2025-07-15,"Objective-C, Objective-C++","No cost for most features, $49.99 for full version",Proprietary
+4,Bluefish,Bluefish Development Team,1999,2.2.19[4],2025-11-21,C,No cost,GPL-3.0-or-later
+5,Brackets,Adobe Systems,2012,2.2.1[5],2023-03-22,"HTML, CSS, JavaScript, C++",No cost,MIT
+6,Coda,Panic,2007,,,Objective-C,$99,Proprietary
+7,ConTEXT,ConTEXT Project Ltd,1999,,,Object Pascal (Delphi),No cost,BSD-3-Clause
+8,Crimson Editor,Ingyu Kang,1999,3.72-r286m[6],2011-10-01,C++,No cost,Proprietary
+9,ed,Ken Thompson,1970,unchanged from original,,C,No cost,?
+10,Editra,Cody Precord,2007,0.7.20,2013-01-05,Python,No cost,wxWindows license
+11,EmEditor,"Emurasoft, Inc.",1997,21.3.0,2021-11-24,C++,$39.99,Shareware
+12,epsilon,Lugaru Software,1984,14.00[7],2020-10-20,C,$250,Proprietary
+13,FeatherPad,Pedram Pourang,2016,1.4.1[8],2023-06-12,"C++, Qt",No cost,GPL-3.0-or-later
+14,FocusWriter,Graeme Gott,2008,1.8.13[9],2025-08-18,"C++, Qt",No cost,GPL-3.0-or-later
+15,gedit,GNU Project,2000,48.0[10],2024-09-14,C,No cost,GPL-3.0
+16,Geany,Enrico Tröger,2005,2.1.0[11],2025-07-06,"C, GTK+",No cost,GPL-2.0-or-later
+17,GNU Emacs,Richard Stallman,1984,30.2[12],2025-08-14,"C, Emacs Lisp",No cost,GPL-3.0-or-later
+18,GNU nano,Chris Allegretta,1999,,,C,No cost,GPL-3.0-or-later
+19,IA Writer,Information Architects,2010.09.22,7.2,2025-08-25,"Objective-C (iOS), Objective-C (macOS), C# (Windows), Java (Android)",$29.99,Proprietary
+20,JED,John E. Davis,1992,0.99-19,2009-12-13,"C, S-Lang",No cost,GPL-2.0-or-later
+21,jEdit,Slava Pestov,1998,5.7.0[13],2024-08-03,Java,No cost,GPL-2.0-or-later
+22,JOE,Joseph Allen,1988,4.6[14],2018-01-09,C,No cost,GPL
+23,JOVE,Johnathon Payne,1983,4.17.5.5[15],2025-05-14,C,No cost,JOVE license
+24,Kate,KDE Project,2000-12,25.12.2[16],2026-02-01,C++,No cost,"LGPL, MIT"
+25,KEDIT,"Mansfield Software Group, Inc.",1983,1.6.1,2016-12-05,C,$129,Proprietary
+26,Komodo Edit,Activestate,2007,12.0.1[17],2020-02-10,"Python, JavaScript, Perl, Tcl, PHP, Ruby",No cost,"MPL, GPL, LGPL"
+27,Komodo IDE,Activestate,2001,,,"Python, JavaScript, Perl, Tcl, PHP, Ruby",$295,Proprietary
+28,KWrite,KDE Project,2000,24.12.1[18],2025-01-09,C++,No cost,LGPL
+29,LE,Alexander V. Lukyanov,1997,1.16.8[19],2021-02-05,C++,No cost,GPL-3.0-or-later
+30,Leo,Edward K. Ream,1996,6.7.6[20],2023-12-19,Python,No cost,MIT
+31,Light Table,Chris Granger,2012,0.8.1[21],2016-01-22,ClojureScript,No cost,MIT
+32,mcedit,Miguel de Icaza,1994,4.8.33[22],2025-01-23,"C, Python, PHP, Javascript, Perl, Tcl, Ruby",No cost,GPL-3.0-or-later
+33,Metapad,Alexander Davidson,1999,3.6[23][24],2011-05-28,C,No cost,GPL-3.0-or-later
+34,mg,Dave Conroy,1986,current[a],2020-07-22,C,No cost,Public domain
+35,MinEd,Thomas Wolff,1992,2022.27,2022-12-23,C,No cost,GPL
+36,MS-DOS Editor,Microsoft,1991,2.0.026,,,"Bundled with MS-DOS, Microsoft Windows",Proprietary
+37,ne,Sebastiano Vigna Todd Lewis Daniele Filaretti,1993,3.3.4[26],2025-02-06,C,No cost,GPL-3.0-or-later
+38,NEdit,Mark Edel,1991,5.7[27],2017-02-08,C,No cost,GPL-2.0-or-later
+39,Notepad,Microsoft,1985,11.2302.16.0,,MASM (originally),Bundled with Microsoft Windows,Proprietary
+40,Notepad++,Don Ho,2003-11-25,8.9.1[28],2026-01-26,C++,No cost,GPL-3.0-or-later
+41,nvi,Keith Bostic,1994,1.81.6[29],2007-11-18,C,No cost,BSD-3-Clause
+42,Pico,University of Washington,1992,4.64,,C,No cost,Apache-2.0
+43,PolyEdit,PolySoft Solutions,1998,5.4,2010‑04‑07,,$27.95,Shareware
+44,PSPad,Jan Fiala,2002,5.5.1[30],2025-02-05,Object Pascal (Delphi),No cost,Proprietary
+45,RJ TextEd,Rickard Johansson,2004,15.63[31],2022-09-29,Object Pascal (Delphi),No cost,Proprietary
+46,Sam,Rob Pike,1980s (early),stable,,C,No cost,LPL (OSI approved)
+47,SciTE,Neil Hodgson,1999,5.5.4[32],2024-12-18,C++,$41.99 for macOS. No cost for others,HPND
+48,SlickEdit,"SlickEdit, Inc.",1988,28.0.1,2024-01-21,"C, Slick-C",$299,Proprietary
+49,Smultron,Peter Borg,2004,12.0.6,2020-01-03,Objective-C,$7.99,Proprietary
+50,SubEthaEdit,TheCoding­Monkeys,2003,5.2.4[33],2022-01-08,,No cost,MIT
+51,Sublime Text,"Jon Skinner, Sublime HQ",2008,4 (Build 4200)[34],2025-05-21,"C++, Python",$99,Shareware
+52,TED Notepad,Juraj Simlovic,2001,6.3.1[35],2021-12-01,C,No cost,Proprietary
+53,Textadept,Mitchell,2007,12.9[36],2025-10-01,"C, Lua",No cost,MIT
+54,TextEdit,Apple Inc.,2001,1.18,2022-10-24,,No cost (also bundled with macOS),BSD-3-Clause
+55,TextMate,MacroMates,2004-10-10,2.0.23[37],2021-10-12,Objective-C++,No cost,GPL-3.0-or-later
+56,TextPad,Helios Software Solutions,1992,9.3.0[38],2023-08-01,,$30.00 (£16.50),Shareware
+57,TextWrangler,Bare Bones Software,2003,5.5.2,2016-09-20,,No cost,Proprietary
+58,The SemWare Editor,Sammy Mitchell,1985-11,4.49[39],2023-01,"C, SAL",No cost,BSD-2-Clause
+59,UltraEdit,IDM Computer Solutions,1994,25.0,2018-03-12,C++,$99.95,Proprietary
+60,VEDIT,"Ted Green, Greenview Data",1980,6.24.2,2015-01-12,"Assembly, C","$89 standard, $239 Pro64",Proprietary
+61,vi,Bill Joy,1976,3.7,,C,No cost,BSD-4-Clause or CDDL
+62,Vim,Bram Moolenaar,1991,9.2[40],2026-02-14,"C, Vim script",No cost,Vim
+63,Visual Studio Code,Microsoft,2015,1.109.2[41][42],2026-02-11,"JavaScript, TypeScript",No cost,Source code: MIT[43] Binaries built by Microsoft: Proprietary[44][45]
+64,XEmacs,Lucid Inc.,1991,21.4.22[46],2009-01-30,"C, Emacs Lisp",No cost,GPL-2.0-or-later
+65,XNEdit,Olaf Wintermann,2018,1.5.2,2023-10-05,C,No cost,GPL-2.0-or-later
